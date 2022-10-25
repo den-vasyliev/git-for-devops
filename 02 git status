@@ -1,0 +1,6 @@
+
+NAME
+       git-status - Show the working tree status
+
+SYNOPSIS
+       git status [<options>...] [--] [<pathspec>...]

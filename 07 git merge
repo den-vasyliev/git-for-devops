@@ -1,0 +1,11 @@
+
+NAME
+       git-merge - Join two or more development histories together
+
+SYNOPSIS
+       git merge [-n] [--stat] [--no-commit] [--squash] [--[no-]edit]
+               [--no-verify] [-s <strategy>] [-X <strategy-option>] [-S[<keyid>]]
+               [--[no-]allow-unrelated-histories]
+               [--[no-]rerere-autoupdate] [-m <msg>] [-F <file>]
+               [--into-name <branch>] [<commit>...]
+       git merge (--continue | --abort | --quit)

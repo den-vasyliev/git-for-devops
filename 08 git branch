@@ -1,0 +1,13 @@
+
+NAME
+       git-branch - List, create, or delete branches
+
+SYNOPSIS
+       git branch [--color[=<when>] | --no-color] [--show-current]
+               [-v [--abbrev=<n> | --no-abbrev]]
+               [--column[=<options>] | --no-column] [--sort=<key>]
+               [--merged [<commit>]] [--no-merged [<commit>]]
+               [--contains [<commit>]] [--no-contains [<commit>]]
+               [--points-at <object>] [--format=<format>]
+               [(-r | --remotes) | (-a | --all)]
+               [--list] [<pattern>...]

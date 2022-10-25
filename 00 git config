@@ -1,0 +1,7 @@
+
+NAME
+       git-config - Get and set repository or global options
+
+SYNOPSIS
+       git config [<file-option>] [--type=<type>] [--fixed-value] [--show-origin] [--show-scope] [-z|--
+null] <name> [<value> [<value-pattern>]]

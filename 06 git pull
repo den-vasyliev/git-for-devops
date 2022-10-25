@@ -1,0 +1,6 @@
+
+NAME
+       git-pull - Fetch from and integrate with another repository or a local branch
+
+SYNOPSIS
+       git pull [<options>] [<repository> [<refspec>...]]
