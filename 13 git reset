@@ -1,0 +1,9 @@
+
+NAME
+       git-reset - Reset current HEAD to the specified state
+
+SYNOPSIS
+       git reset [-q] [<tree-ish>] [--] <pathspec>...
+       git reset [-q] [--pathspec-from-file=<file> [--pathspec-file-nul]] [<tree-ish>]
+       git reset (--patch | -p) [<tree-ish>] [--] [<pathspec>...]
+       git reset [--soft | --mixed [-N] | --hard | --merge | --keep] [-q] [<commit>]
