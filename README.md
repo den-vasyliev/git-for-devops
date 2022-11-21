@@ -1,2 +1,2 @@
 # git-for-devops
-Useful git commands for devops training
+Useful git commands for devops
